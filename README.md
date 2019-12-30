@@ -1,3 +1,4 @@
-# orange
+# Orange
 
-Wrapper library for piston for my own projects.
+Experimenting with a way to program game event loops.
+
